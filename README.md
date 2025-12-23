@@ -4,8 +4,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-component-PeAVqOr5_j](https://www.frontendmentor.io/solutions/stats-preview-card-component-PeAVqOr5_j)
-- Live Site URL: [https://zauri-khutsishvili.github.io/stats-preview-card-component/](https://zauri-khutsishvili.github.io/stats-preview-card-component/)
+- Solution URL: []()
+- Live Site URL: [https://z-khutsishvili.github.io/stats-preview-card-component/](https://z-khutsishvili.github.io/stats-preview-card-component/)
 
 ## Built with
 
@@ -16,4 +16,4 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Author
 
-- Frontend Mentor - [@zauri-khutsishvili](https://www.frontendmentor.io/profile/zauri-khutsishvili)
+- Frontend Mentor - [@z-khutsishvili](https://www.frontendmentor.io/profile/z-khutsishvili)
